@@ -1,6 +1,5 @@
 # Capstone-Project-Patrick-J-North
 
-Introduction/Business Understanding
 
 Introduction/Business Understanding
 
